@@ -11,7 +11,7 @@ The School Management System is a web application built with FastAPI and SQLAlch
 
 **Staff Administration**: Oversee staff details and roles.<br>
 
-**Author**:Ansar Ul Haq
+
 
 ## **How to Use**
 
@@ -28,5 +28,7 @@ The School Management System is a web application built with FastAPI and SQLAlch
     ```bash
     uvicorn main_appname:app --reload
 
+
+**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**<br/>
+
 **Author**: Ansar Ul Haq
-**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**
