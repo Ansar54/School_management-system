@@ -1,4 +1,4 @@
-##School Management System##
+##**School Management System**
 
 The School Management System is a web application built with FastAPI and SQLAlchemy to streamline administrative tasks in schools.This system enhances efficiency and organization by consolidating essential school operations into a single platform.<br/>
  It offers secure APIs for:
